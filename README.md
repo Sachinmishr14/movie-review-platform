@@ -26,8 +26,19 @@ A vibrant full-stack movie review application built with React (frontend), Node.
 - (Optional) TMDB API key for movie data
 
 ### Installation
-
-1. Clone the repository:
-   `bash
-   git clone https://github.com/yourusername/movie-review-platform.git
-   cd movie-review-platform
+### Steps to Run
+1. Clone the Repository
+    git clone https://github.com/yourusername/movie-review-platform.git
+     
+    cd movie-review-platform
+     
+2. Backend Setup
+   cd backend
+   npm install
+   node server.js
+     
+3. Frontend Setup
+   cd frontend
+   npm install
+   pm start
+     
